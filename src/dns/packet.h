@@ -1,0 +1,1 @@
+#define MAX_DNS_PACKET 1280
